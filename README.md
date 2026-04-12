@@ -1,10 +1,19 @@
 # Hi there 👋 I'm Rifki Radifan 👋 😎
 
-Cloud & Infrastructure Engineer with 10+ years of experience in IT operations, Linux systems, and cloud environments.
-I specialize in building reliable infrastructure, automating systems, and solving complex server issues.
+10 years in IT. Started as a sysadmin, grew into SRE and Cloud Engineering.
+Built and maintained infrastructure for production systems across AWS, GCP, and Alibaba Cloud.
+
+These days, I'm learning to code — not just scripts, but real software.
+Coming from ops means I build things with reliability in mind from day one.
 
 <br>
 
+## 🚀 Currently
+- Learning Go & Python for backend development
+- Building projects that combine infra knowledge with real code
+- Exploring platform engineering & developer tooling
+
+<br>
 
 ## ⚒️ Tech Stack
 
@@ -38,13 +47,13 @@ I specialize in building reliable infrastructure, automating systems, and solvin
 
 <br>
 
-<!--
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=radive15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=radive15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=radive15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+
 
 
 ### 📫 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rifki-radifan-156b83a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrdvan10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifki-radifan-156b83a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrdvan10@gmail.com)
